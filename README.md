@@ -2,9 +2,9 @@ STROER CASE STUDY --
 
 Stroer Case Study is based on BDD Automation Framework with the below tools & technologies.
 
-Framework	            --  BDD Hybrid (Cucumber with Gherkin Language & Page Factory Model)
-Tools	                --  Selenium WebDriver & Maven
-Programming Languages   --	JAVA & JavaScript
+Framework	            --  BDD Hybrid (Cucumber with Gherkin Language & Page Factory Model).
+Tools	                --  Selenium WebDriver & Maven.
+Programming Languages   --	JAVA & JavaScript.
 Version Controlling Tool--	GitHUB.
 Browsers	            --  Chrome, Firefox, Safari, IE, etc.
 
