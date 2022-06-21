@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../horreum-webapp-qa-automation/PegasusFrameWork.iml" filepath="$PROJECT_DIR$/../horreum-webapp-qa-automation/PegasusFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stroer_CaseStudy.iml" filepath="$PROJECT_DIR$/Stroer_CaseStudy.iml" />
+    </modules>
+  </component>
+</project>
